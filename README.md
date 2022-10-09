@@ -1,2 +1,2 @@
 # CLLE
-Code of COMETA.
+Code of COMETA framework.
