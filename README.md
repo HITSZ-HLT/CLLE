@@ -11,4 +11,4 @@ Continual Language Learning (CLL) in multilingual  translation is inevitable whe
 ### CN-25 
   https://drive.google.com/drive/folders/1zlHS9vGBmxJe-NxM24UZxmJnI9qf-zko?usp=sharing
 ### COMETA
-  branch : master
+  The code of COMETA is in the master branch.
