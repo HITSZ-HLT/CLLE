@@ -6,4 +6,4 @@ Code and Datasets of " CLLE: A Benchmark for Continual Language Learning Evaluat
 # CN-25 
   https://drive.google.com/drive/folders/1zlHS9vGBmxJe-NxM24UZxmJnI9qf-zko?usp=sharing
 # COMETA
-  brach : master
+  branch : master
