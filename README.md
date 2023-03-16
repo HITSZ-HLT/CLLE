@@ -10,7 +10,7 @@ Continual Language Learning (CLL) in multilingual  translation is inevitable whe
   Google drive: https://drive.google.com/drive/folders/1Vm9A_SnjVvOiEhCj30azYeEZFmUi5i1g?usp=sharing
 ### CN-25 
   Google drive: https://drive.google.com/drive/folders/1zlHS9vGBmxJe-NxM24UZxmJnI9qf-zko?usp=sharing
-### COMETA
+### Code of COMETA 
   The code of COMETA is in the master branch.
   URL: https://github.com/HITSZ-HLT/CLLE/tree/master
 
