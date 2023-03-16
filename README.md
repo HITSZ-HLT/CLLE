@@ -14,7 +14,7 @@ Continual Language Learning (CLL) in multilingual  translation is inevitable whe
   The code of COMETA is in the master branch.
   URL: https://github.com/HITSZ-HLT/CLLE/tree/master
 
-### CITE
+### Citation
     @inproceedings{zhang-etal-2022-clle,
         title = "{CLLE}: A Benchmark for Continual Language Learning Evaluation in Multilingual Machine Translation",
         author = "Zhang, Han  and
